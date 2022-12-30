@@ -193,10 +193,7 @@ a:hover {
     border-color: rgba(0, 0, 0, .3);
 }
 
-.d-bloc .panel,
-.l-bloc {
-    color: rgba(0, 0, 0, .5);
-}
+
 
 .d-bloc .panel button:hover,
 .l-bloc button:hover {
@@ -735,9 +732,7 @@ h4 {
     margin-top: 24px;
 }
 
-.white {
-    color: #FFFFFF!important;
-}
+
 
 .portfolio-thumb {
     margin-bottom: 24px;
@@ -774,9 +769,7 @@ h4 {
     background-color: #F3976C!important;
 }
 
-.tc-white {
-    color: #FFFFFF!important;
-}
+
 
 .btn-atomic-tangerine {
     background:#F3976C!important;
