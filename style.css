@@ -13,6 +13,11 @@ button {
     outline: none!important;
 }
 
+img {
+    max-width : 100%;
+    height : auto;
+    }
+
 a:hover {
     text-decoration: none;
     cursor: pointer;
