@@ -7,6 +7,12 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+
+input:focus{
+    color:red
+}
+
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -23,6 +29,7 @@ a:hover {
     cursor: pointer;
 }
 
+:focus
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
