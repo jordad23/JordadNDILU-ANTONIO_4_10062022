@@ -642,7 +642,9 @@ a {
     font-weight: 400;
     color: white;
 }
-h6{
+P,h6{
+    font-family: "helvetica";
+    font-weight: 400;
     color:#000000
 }
 
