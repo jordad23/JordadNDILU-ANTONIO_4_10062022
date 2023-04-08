@@ -642,6 +642,9 @@ a {
     font-weight: 400;
     color: white;
 }
+h6{
+    color:#000000
+}
 
 .container {
     max-width: 1000px;
