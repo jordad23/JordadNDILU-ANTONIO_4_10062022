@@ -633,15 +633,14 @@ a[data-lightbox]:hover img {
 h1,
 h2,
 h4,
-h5, 
-label,
+h5,
 .btn,
 a {
     font-family: "helvetica";
     font-weight: 400;
     color: white;
 }
-P,h6{
+P,h6,label {
     font-family: "helvetica";
     font-weight: 400;
     color:#000000
